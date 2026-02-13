@@ -1,4 +1,5 @@
-### **Title: Movie Success Rate Prediction Project**
+### **Title: Full Stack Movie Prediction Web Application
+**
 
 ### **Description:**
 **This pull request introduces a new project aimed at predicting the success rate of movies based on various features such as genre, director, runtime, rating, votes, revenue, and metascore. The project leverages machine learning models to make predictions and is designed to assist movie directors and producers in evaluating the potential success of their movies before release.**
